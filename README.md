@@ -1,2 +1,2 @@
 # vfilter
-Downward compatible version filter
+Downward compatible API version filter
